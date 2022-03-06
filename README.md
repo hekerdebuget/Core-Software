@@ -1,2 +1,2 @@
 # Core-Software
-System for core software apps
+Core Software repository
